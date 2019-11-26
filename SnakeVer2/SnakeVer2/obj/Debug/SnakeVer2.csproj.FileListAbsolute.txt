@@ -1,0 +1,10 @@
+C:\Users\ollegg\source\repos\SnakeVer2\SnakeVer2\obj\Debug\SnakeVer2.csprojAssemblyReference.cache
+C:\Users\ollegg\source\repos\SnakeVer2\SnakeVer2\obj\Debug\SnakeVer2.Form1.resources
+C:\Users\ollegg\source\repos\SnakeVer2\SnakeVer2\obj\Debug\SnakeVer2.Properties.Resources.resources
+C:\Users\ollegg\source\repos\SnakeVer2\SnakeVer2\obj\Debug\SnakeVer2.csproj.GenerateResource.cache
+C:\Users\ollegg\source\repos\SnakeVer2\SnakeVer2\obj\Debug\SnakeVer2.csproj.CoreCompileInputs.cache
+C:\Users\ollegg\source\repos\SnakeVer2\SnakeVer2\bin\Debug\SnakeVer2.exe.config
+C:\Users\ollegg\source\repos\SnakeVer2\SnakeVer2\bin\Debug\SnakeVer2.exe
+C:\Users\ollegg\source\repos\SnakeVer2\SnakeVer2\bin\Debug\SnakeVer2.pdb
+C:\Users\ollegg\source\repos\SnakeVer2\SnakeVer2\obj\Debug\SnakeVer2.exe
+C:\Users\ollegg\source\repos\SnakeVer2\SnakeVer2\obj\Debug\SnakeVer2.pdb
